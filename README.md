@@ -13,11 +13,11 @@
 
 ```javascript
 const juan = {
-  pronouns: "he" | "him",
+  pronouns: ['he', 'him'],
   code: [Javascript, Typescript, HTML, Python, Java],
   tools: [React, Vue, Angular, Spring, Django],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  challenge: "half marathon trainee"
+  architecture: ['microservices', 'event-driven', 'design system pattern'],
+  challenge: 'half marathon trainee'
 }
 ```
 
