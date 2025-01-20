@@ -1,16 +1,23 @@
-## Hi there 👋
+<h2> Hi, I'm Juan Aguilar! 👋</h2>
+<img align='right' src="https://media.giphy.com/media/BxAgRV0lC3QnufNviv/giphy.gif" width="230">
+<p><em>Software Enginner at <a href="http://www.vitaltech.com">Vitaltech</a></br>Associate Professor at <a href="https://www.uloyola.es/">Universidad Loyola</a>
+</em></p>
 
-<!--
-**aguilarguisado/aguilarguisado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Twitter: aguilarguisado](https://img.shields.io/twitter/follow/aguilarguisado?style=social)](https://twitter.com/aguilarguisado)
+[![Linkedin: juanaguilarguisado](https://img.shields.io/badge/-aguilarguisado-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juanaguilarguisado/)](https://www.linkedin.com/in/juanaguilarguisado/)
+[![GitHub aguilarguisado](https://img.shields.io/github/followers/aguilarguisado?label=follow&style=social)](https://github.com/aguilarguisado)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### A little more about me...  
+
+```javascript
+const juan = {
+  pronouns: "he" | "him",
+  code: [Javascript, Typescript, HTML, Python, Java],
+  tools: [React, Vue, Angular, Spring, Django],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  challenge: "half marathon trainee"
+}
+```
+
+<em><b>I love connecting with people from all walks of life, so feel free to say hi—I’d be delighted to get to know you better! </b></em>😊
