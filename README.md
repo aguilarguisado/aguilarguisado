@@ -17,7 +17,7 @@ const juan = {
   code: [Javascript, Typescript, HTML, Python, Java],
   tools: [React, Vue, Angular, Spring, Django],
   architecture: ['microservices', 'event-driven', 'design system pattern'],
-  challenge: 'half marathon trainee'
+  challenge: 'Run a half-marathon in under 2 hours.'
 }
 ```
 
