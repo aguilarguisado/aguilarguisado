@@ -1,6 +1,6 @@
 <h2> Hi, I'm Juan Aguilar! 👋</h2>
 <img align='right' src="https://media.giphy.com/media/BxAgRV0lC3QnufNviv/giphy.gif" width="230">
-<p><em>Software Enginner at <a href="http://www.vitaltech.com">Vitaltech</a></br>Associate Professor at <a href="https://www.uloyola.es/">Universidad Loyola</a>
+<p><em>Co-founder and AI Product Engineer at <a href="http://www.4gentic.ai">4gentic</a></br>Associate Professor at <a href="https://www.uloyola.es/">Universidad Loyola</a>
 </em></p>
 
 [![Stack Overflow: 3886983](https://img.shields.io/badge/Stack%20Overflow-juanaguilarguisado-F58025?style=flat-square&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/3886983)](https://stackoverflow.com/users/3886983)
